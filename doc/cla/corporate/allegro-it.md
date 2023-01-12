@@ -14,3 +14,4 @@ List of contributors:
 
 Arnis Putniņš arnis@allegro.lv https://github.com/Allegro-IT
 Santa Ašmane santa@allegro.lv https://github.com/Allegro-IT
+Aleksejs Ivanovs (myacc-pro)  ai@myacc.pro https://github.com/Allegro-IT
